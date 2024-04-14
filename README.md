@@ -6,6 +6,3 @@ If you need to use a model from this project, please cite this project with the 
 # related projects
 
 douzero_resnet: https://github.com/EdwardPooh/douzero-resnet-2.0
-
-DouZero_For_HLDDZ_FullAuto: https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto
-
